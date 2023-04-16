@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-16T21:04:57.843Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36  SberBrowser/3.1.0.0" etag="bzrUVN12K4vbMpbg2Red" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-16T21:09:00.623Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36  SberBrowser/3.1.0.0" etag="l97jnpen8DO776TgUuWE" version="21.1.8" type="github">
   <diagram name="Страница 1" id="h-G-vhxxUBWK7qmxTNBn">
-    <mxGraphModel dx="1750" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,6 +191,18 @@
         </mxCell>
         <mxCell id="gQgqUX1Pr18_1DQB4rD5-47" value="HTTPS API&lt;br&gt;Другие поставщики" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gQgqUX1Pr18_1DQB4rD5-50" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="420" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gQgqUX1Pr18_1DQB4rD5-51" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="700" y="210" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gQgqUX1Pr18_1DQB4rD5-52" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="695" y="300" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gQgqUX1Pr18_1DQB4rD5-53" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="690" y="500" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
